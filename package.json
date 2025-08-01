@@ -1,6 +1,6 @@
 {
-  "name": "react-native-track-player",
-  "version": "4.1.1",
+  "name": "@vipulsuthar-swaraa/react-native-track-player",
+  "version": "4.2.1",
   "description": "A fully fledged audio module created for music apps",
   "main": "lib/src/index.js",
   "types": "lib/src/index.d.ts",
@@ -70,10 +70,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/doublesymmetry/react-native-track-player.git"
+    "url": "https://github.com/vipulsuthar-swaraa/react-native-track-player.git"
   },
   "bugs": {
-    "url": "https://github.com/doublesymmetry/react-native-track-player/issues"
+    "url": "https://github.com/vipulsuthar-swaraa/react-native-track-player/issues"
   },
   "peerDependencies": {
     "react": ">=16.8.6",
@@ -107,7 +107,7 @@
     "shaka-player": "^4.7.9",
     "typescript": "^4.8.2"
   },
-  "funding": "https://github.com/doublesymmetry/react-native-track-player?sponsor=1",
+  "funding": "https://github.com/vipulsuthar-swaraa/react-native-track-player?sponsor=1",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
