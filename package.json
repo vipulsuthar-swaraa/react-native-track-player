@@ -1,5 +1,5 @@
 {
-  "name": "@vipulsuthar-swaraa/react-native-track-player",
+  "name": "@vipulsuthar-swaraa-react-native-track-player",
   "version": "4.2.1",
   "description": "A fully fledged audio module created for music apps",
   "main": "lib/src/index.js",
