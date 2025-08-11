@@ -15,7 +15,7 @@
     "web:start": "craco start",
     "web:build": "craco build",
     "windows": "react-native run-windows",
-    "start": "react-native start",
+    "start": "node api.js && react-native start",
     "test": "jest",
     "lint": "eslint src",
     "format": "prettier --write src",
